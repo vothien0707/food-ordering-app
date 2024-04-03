@@ -1,9 +1,11 @@
-import { Header } from '@/components/common';
+import { Header, Hero } from '@/components/common';
 
 const Home = () => {
   return (
     <>
       <Header />
+
+      <Hero />
     </>
   );
 };

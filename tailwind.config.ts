@@ -11,6 +11,9 @@ const config: Config = {
       colors: {
         primary: '#f13a01',
       },
+      gridTemplateColumns: {
+        hero: '.4fr .6fr',
+      },
     },
   },
   plugins: [],
