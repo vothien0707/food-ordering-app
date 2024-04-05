@@ -21,6 +21,12 @@ const menuConfig = {
       path: '/contact',
     },
   ],
+  home: [
+    {
+      id: 0,
+      display: '',
+    },
+  ],
 };
 
 export default menuConfig;

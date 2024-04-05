@@ -1,4 +1,4 @@
-import { Header, Hero } from '@/components/common';
+import { Header, Hero, HomeMenu } from '@/components/common';
 
 const Home = () => {
   return (
@@ -6,6 +6,8 @@ const Home = () => {
       <Header />
 
       <Hero />
+
+      <HomeMenu />
     </>
   );
 };
