@@ -15,7 +15,7 @@ const header = () => {
           </Link>
         ))}
       </nav>
-      <button className="px-2 py-1 bg-primary text-white">
+      <button className="px-6 py-1 rounded-full bg-primary text-white">
         <Link href="/login">Login</Link>
       </button>
     </header>
